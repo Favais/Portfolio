@@ -1,7 +1,7 @@
 import React from 'react'
-import './services.css'
+import './Services.css'
 import element from '../../assets/element.png'
-import Services_Data from '../../assets/Services_data'
+import Services_Data from '../../assets/services_data'
 import arrow_icon from '../../assets/arrowicon.png'
 
 const Services = () => {
